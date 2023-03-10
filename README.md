@@ -2,7 +2,7 @@
 
 ## Initial setup 
 
-In order to simplify learning SQL and not need to mess around with my systems version of PostgreSQL I am going to use the [official Docker image](https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/)  
+In order to simplify learning SQL and not need to mess around with my system's version of PostgreSQL I am going to use the [official Docker image](https://www.docker.com/blog/how-to-use-the-postgres-docker-official-image/)  
 
 I don't plan on needing to access the data from other applications so I am going to let Docker manage the files.  
 
